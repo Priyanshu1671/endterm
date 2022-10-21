@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "name": "Joshi",
+      "address": "Chitkara University",
+      "email": "puspendrasingh908@gmail.com",
+      "phone": "09950963783",
+      "website": "broberry",
+      "img": "\"D:\\Wallpapers\\#Naruto #KakashiHatake.png\"",
+      "id": 2
+    },
+    {
+      "name": "Joshi",
+      "address": "Chitkara University",
+      "email": "puspendrasingh908@gmail.com",
+      "phone": "09950963783",
+      "website": "broberry",
+      "img": "\"D:\\Wallpapers\\#Naruto #KakashiHatake.png\"",
+      "id": 3
+    },
+    {
+      "name": "Joshi",
+      "address": "Chitkara University",
+      "email": "priyanshu1671.be20@chitkara.edu.in",
+      "phone": "09950963783",
+      "website": "broberry",
+      "img": "\"C:\\Users\\gopri\\OneDrive\\Desktop\\wp1809893-one-punch-man-wallpapers.jpg\"",
+      "id": 4
+    }
+  ]
+}
